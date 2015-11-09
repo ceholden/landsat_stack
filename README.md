@@ -8,13 +8,13 @@ Downloads are hosted on my university's FTP server.
 
 - Harvard Forest, Massachusetts, USA (P013-R030)
     + [Footprint](p013r030_bbox.geojson)
-    + [Download](http://ftp-earth.bu.edu/public/ceholden/landsat_stacks/p013r030.tar.bz2)
-- Forest in Colorado, USA (P035-R032)]
+    + [Download](http://ftp-earth.bu.edu/public/ceholden/landsat_stacks/p013r030.tar.bz2) 167M
+- Forest in Colorado, USA (P035-R032)
     + [Footprint](p035r032_bbox.geojson)
-    + [Download](http://ftp-earth.bu.edu/public/ceholden/landsat_stacks/p035r032.tar.bz2)
+    + [Download](http://ftp-earth.bu.edu/public/ceholden/landsat_stacks/p035r032.tar.bz2) 12M
 - Chiapas, Mexico (P022-R049)
     + [Footprint](p022r049_bbox.geojson)
-    + [Download](http://ftp-earth.bu.edu/public/ceholden/landsat_stacks/p022r049.tar.bz2)
+    + [Download](http://ftp-earth.bu.edu/public/ceholden/landsat_stacks/p022r049.tar.bz2) 127M
 
 ## Format:
 
@@ -28,4 +28,6 @@ Downloads are hosted on my university's FTP server.
     + Band 6 Thermal Brightness (C * 100)
     + Fmask
 
-- "ENVI" format band-interleave by pixel (BIP)
+Either:
+    - "ENVI" format band-interleave by pixel (BIP)
+    - GeoTIFF
