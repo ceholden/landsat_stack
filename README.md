@@ -29,5 +29,6 @@ Downloads are hosted on my university's FTP server.
     + Fmask
 
 Either:
-    - "ENVI" format band-interleave by pixel (BIP)
-    - GeoTIFF
+
+- "ENVI" format band-interleave by pixel (BIP)
+- GeoTIFF
