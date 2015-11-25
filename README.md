@@ -18,9 +18,12 @@ Downloads are hosted on my university's FTP server.
     + File format: GeoTIFF
 - Chiapas, Mexico (P022-R049)
     + [Footprint](p022r049_bbox.geojson)
-    + [Download](http://ftp-earth.bu.edu/public/ceholden/landsat_stacks/p022r049.tar.bz2) 127MB
+    + [Download](http://ftp-earth.bu.edu/public/ceholden/landsat_stacks/p022r049.tar.bz2) 327MB
     + Stack pattern: `L*stack`
     + File format: ENVI BIP
+    + Model results (for testing, don't consider them "good" results necessarily)
+        + CCDC: `images/TSFitMap`
+        + CCDCesque via YATSM: `images/YATSM`
 
 ## Format:
 
