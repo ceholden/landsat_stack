@@ -11,16 +11,19 @@ Downloads are hosted on my university's FTP server.
     + [Download](http://ftp-earth.bu.edu/public/ceholden/landsat_stacks/p013r030.tar.bz2) 167MB
     + Stack pattern: `L*stack`
     + File format: ENVI BSQ
+    + Size: 300x300 pixels
 - Forest in Colorado, USA (P035-R032)
     + [Footprint](p035r032_bbox.geojson)
     + [Download](http://ftp-earth.bu.edu/public/ceholden/landsat_stacks/p035r032.tar.bz2) 12MB
     + Stack pattern: `L*stack.gtif`
     + File format: GeoTIFF
+    + Size: 61x61 pixels
 - Chiapas, Mexico (P022-R049)
     + [Footprint](p022r049_bbox.geojson)
     + [Download](http://ftp-earth.bu.edu/public/ceholden/landsat_stacks/p022r049.tar.bz2) 327MB
     + Stack pattern: `L*stack`
     + File format: ENVI BIP
+    + Size: 250x250 pixels
     + Model results (for testing, don't consider them "good" results necessarily)
         + CCDC: `images/TSFitMap`
         + CCDCesque via YATSM: `images/YATSM`
