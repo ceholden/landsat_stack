@@ -50,3 +50,32 @@ Either:
 
 - "ENVI" format band-interleave by pixel (BIP)
 - GeoTIFF
+
+## Example:
+
+Here is an example directory listing of the `p013r030` dataset, when extracted:
+
+```
+p013r030/
+└── subset
+    ├── cache
+    ├── LE70130301999211EDC00
+    │   ├── LE70130301999211EDC00_MTL.txt
+    │   ├── LE70130301999211EDC00_stack
+    │   ├── LE70130301999211EDC00_stack.aux.xml
+    │   └── LE70130301999211EDC00_stack.hdr
+    ├── LE70130301999243EDC00
+    │   ├── LE70130301999243EDC00_MTL.txt
+    │   ├── LE70130301999243EDC00_stack
+    │   ├── LE70130301999243EDC00_stack.aux.xml
+    │   └── LE70130301999243EDC00_stack.hdr
+    ├── LE70130301999275EDC01
+
+...
+
+├── LT50130302011316GNC01
+│   ├── LT50130302011316GNC01_MTL.txt
+│   ├── LT50130302011316GNC01_stack
+│   ├── LT50130302011316GNC01_stack.aux.xml
+│   └── LT50130302011316GNC01_stack.hdr
+```
