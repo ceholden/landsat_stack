@@ -8,7 +8,7 @@ Downloads are hosted on my university's FTP server.
 
 - Harvard Forest, Massachusetts, USA (P013-R030)
     + [Footprint](p013r030_bbox.geojson)
-    + [Download image stack](http://ftp-earth.bu.edu/public/ceholden/landsat_stacks/p013r030_HarvardForest/p013r030.tar.bz2) 167MB
+    + [Download image stack](http://ftp-earth.bu.edu/public/ceholden/landsat_stacks/p013r030_HarvardForest/p013r030_images.tar.bz2) 167MB
     + [Download result files](http://ftp-earth.bu.edu/public/ceholden/landsat_stacks/p013r030_HarvardForest/p013r030_results.tar.gz) 352MB
         + "CCDCesque" results run with [YATSM](github.com/ceholden/yatsm):
     + [Download result maps](http://ftp-earth.bu.edu/public/ceholden/landsat_stacks/p013r030_HarvardForest/p013r030_maps.tar.gz) 6MB
